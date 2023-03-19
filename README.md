@@ -15,7 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/maherrochdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="maherrochdi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rochdi mahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rochdi mahir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rochdi-mahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rochdi-mahir" height="30" width="40" /></a>
+<a href="https://instagram.com/mahir_rochdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahir_rochdi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rochdi_mahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rochdi_mahir" height="30" width="40" /></a>
 </p>
 
@@ -24,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahirrochdi&show_icons=true&locale=en&layout=compact" alt="mahirrochdi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rochdi-mahir&show_icons=true&locale=en" alt="mahirrochdi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirrochdi&show_icons=true&locale=en" alt="mahirrochdi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirrochdi&" alt="mahirrochdi" /></p>
