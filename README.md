@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm MAHIR Rochdi</h1>
 <h3 align="center">I am a Moroccan Junior Full-Stack developer with a strong passion for developing cutting-edge applications</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirrochdi&label=Profile%20views&color=0e75b6&style=flat" alt="mahirrochdi" /> </p>
 
 - 🔭 I’m currently working on **"Location d'objets entre particuliers" web application**
 
@@ -25,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahirrochdi&show_icons=true&locale=en&layout=compact" alt="mahirrochdi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahirrochdi&show_icons=true&locale=en" alt="mahirrochdi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahirrochdi&" alt="mahirrochdi" /></p>
