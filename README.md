@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm MAHIR Rochdi</h1>
 <h3 align="center">I am a Moroccan Junior Full-Stack developer with a strong passion for developing cutting-edge applications</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif" >
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahirrochdi" alt="mahirrochdi" /></a> </p>
 
 - 🔭 I’m currently working on **"Location d'objets entre particuliers" web application**
 
