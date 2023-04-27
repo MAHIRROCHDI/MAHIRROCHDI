@@ -1,6 +1,6 @@
 [![MasterHead](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)](https://github.com/MAHIRROCHDI)
 <h1 align="center">Hi 👋, I'm MAHIR Rochdi</h1>
-<h3 align="center">I am a Moroccan Junior Full-Stack developer with a strong passion for developing cutting-edge applications</h3>
+<h3 align="center">I am a 2nd year student in computer engineering with a passion for web application development. I have a strong background in PHP Laravel and I am currently training to become a Full Stack developer with Spring Framework and Angular. I am seeking a PFA internship starting mid-June to further develop my skills and gain professional experience using these technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirrochdi&label=Profile%20views&color=0e75b6&style=flat" alt="mahirrochdi" /> </p>
 
