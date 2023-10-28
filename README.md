@@ -1,16 +1,16 @@
 [![MasterHead](https://www.meshdex.com/wp-content/uploads/2018/07/web.gif)](https://github.com/MAHIRROCHDI)
 <h1 align="center">Hi 👋, I'm MAHIR Rochdi</h1>
-<h3 align="center">I am a 2nd year student in computer engineering with a passion for web application development. I have a good background in PHP Laravel and I am currently training to become a Full Stack developer with Spring Framework and Angular. I am seeking a PFA internship starting mid-June to further develop my skills and gain professional experience using these technologies.</h3>
+<h3 align="center">I am a 5th year student in computer engineering with a passion for web application development. I have a good background in Java EE and I am currently a Full Stack Java EE developer with Spring Framework and Angular. I am seeking a PFE internship starting Febrary 2024 to further develop my skills and gain professional experience using these technologies.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/format:jpg/resize:fill:80:56/0*7Q3yvSIv_t0ioJ-Z.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahirrochdi&label=Profile%20views&color=0e75b6&style=flat" alt="mahirrochdi" /> </p>
 
 - 🔭 I’m currently working on **"Location d'objets entre particuliers" web application**
 
-- 🌱 I’m currently learning **Angular , Spring Boot**
+- 🌱 I’m currently learning **Angular , Spring Boot, microServices**
 
-- 💬 Ask me about **Angular , Spring Boot ,...**
+- 💬 Ask me about **Java , Angular ,Spring Boot, Microservices**
 
-- 📫 How to reach me **rochdimahir1945@gmail.com**
+- 📫 How to reach me **rochdi.mahir7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
